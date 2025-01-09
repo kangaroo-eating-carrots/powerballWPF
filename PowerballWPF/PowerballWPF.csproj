@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image1.png" />
+    <None Remove="lotto.png" />
+    <None Remove="powerball.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image1.png" />
+    <Resource Include="lotto.png" />
+    <Resource Include="powerball.png" />
+  </ItemGroup>
+
+</Project>

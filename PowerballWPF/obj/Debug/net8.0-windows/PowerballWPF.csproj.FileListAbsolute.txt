@@ -1,0 +1,115 @@
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.exe
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.deps.json
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.runtimeconfig.json
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.dll
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF_MarkupCompile.cache
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF_MarkupCompile.lref
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.g.resources
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.AssemblyInfoInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.AssemblyInfo.cs
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.csproj.CoreCompileInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.sourcelink.json
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.dll
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\refint\PowerballWPF.dll
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.genruntimeconfig.cache
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\ref\PowerballWPF.dll
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\insertwindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\insertwindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.exe
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.deps.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.runtimeconfig.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\insertwindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF_MarkupCompile.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF_MarkupCompile.lref
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\insertwindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.g.resources
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.AssemblyInfoInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.AssemblyInfo.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.csproj.CoreCompileInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.sourcelink.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\refint\PowerballWPF.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.genruntimeconfig.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\ref\PowerballWPF.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.exe
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.deps.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.runtimeconfig.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\insertwindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF_MarkupCompile.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF_MarkupCompile.lref
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\insertwindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.g.resources
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.AssemblyInfoInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.AssemblyInfo.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.csproj.CoreCompileInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.sourcelink.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\refint\PowerballWPF.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.genruntimeconfig.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\ref\PowerballWPF.dll
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.exe
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.deps.json
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.runtimeconfig.json
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.dll
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.pdb
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\insertwindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF_MarkupCompile.cache
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF_MarkupCompile.lref
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\insertwindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.g.resources
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.AssemblyInfoInputs.cache
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.AssemblyInfo.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.csproj.CoreCompileInputs.cache
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.sourcelink.json
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.dll
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\refint\PowerballWPF.dll
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.pdb
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.genruntimeconfig.cache
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\cSharpPractice\Assessment 1\PowerballWPF\PowerballWPF\obj\Debug\net8.0-windows\ref\PowerballWPF.dll
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.exe
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.deps.json
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.runtimeconfig.json
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.dll
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\bin\Debug\net8.0-windows\PowerballWPF.pdb
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\insertwindow.g.cs
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF_MarkupCompile.cache
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF_MarkupCompile.lref
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\insertwindow.baml
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.g.resources
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.AssemblyInfoInputs.cache
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.AssemblyInfo.cs
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.csproj.CoreCompileInputs.cache
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.sourcelink.json
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.dll
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\refint\PowerballWPF.dll
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.pdb
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\PowerballWPF.genruntimeconfig.cache
+C:\Users\davem\source\repos\00_Completed\ForGithubUpdates\powerballWPF\PowerballWPF\obj\Debug\net8.0-windows\ref\PowerballWPF.dll
